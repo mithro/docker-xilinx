@@ -1,5 +1,6 @@
+# xilinx-docker
 
-Dockerize Xilinx tools to allow "throw away" environment for doing CI style builds.
+Dockerize Xilinx FPGA tools to allow "throw away" environment for doing CI style builds.
 
 # Running the container
 
@@ -46,3 +47,4 @@ See http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
 `--device=/dev/bus/usb/001/001`
 
 
+>>>>>>> origin/master
