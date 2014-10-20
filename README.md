@@ -45,6 +45,3 @@ See http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
 # Mapping USB into docker
 
 `--device=/dev/bus/usb/001/001`
-
-
->>>>>>> origin/master
